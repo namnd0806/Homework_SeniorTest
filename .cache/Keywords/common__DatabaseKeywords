@@ -1,0 +1,40 @@
+{
+  "keywordFileContentHash": "0E51B126B069CF777A0CF9079599F0AA",
+  "keywordClasses": [
+    {
+      "name": "common.DatabaseKeywords",
+      "keywordMethods": [
+        {
+          "name": "connectDB",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "executeQuery",
+          "parameters": [
+            {
+              "name": "queryString",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "closeDB",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

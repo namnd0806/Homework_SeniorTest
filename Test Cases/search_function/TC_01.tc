@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9cc190b6-2289-4f27-a129-e22906c50105</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>494f3c14-ef5e-4c1a-8332-4b6873429a3e</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>1</value>
+      </iterationEntity>
+      <testDataId>Data Files/DataFile/SearchFunctionData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>494f3c14-ef5e-4c1a-8332-4b6873429a3e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>searchValue</value>
+      <variableId>7aafebd9-d6e5-40fa-a282-826fd8a8a512</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7aafebd9-d6e5-40fa-a282-826fd8a8a512</id>
+      <masked>false</masked>
+      <name>searchValue</name>
+   </variable>
+</TestCaseEntity>

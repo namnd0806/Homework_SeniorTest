@@ -1,0 +1,73 @@
+{
+  "keywordFileContentHash": "58C3BF1285A9C0C669FA3C40BA5D80AA",
+  "keywordClasses": [
+    {
+      "name": "function.SearchFunctionKeywords",
+      "keywordMethods": [
+        {
+          "name": "sendKeysAndPressEnter",
+          "parameters": [
+            {
+              "name": "searchValue",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "checkMessageSuccess",
+          "parameters": [
+            {
+              "name": "searchValue",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "checkNoResultMessage",
+          "parameters": [
+            {
+              "name": "expectMessage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "verifySearchResultSuccess",
+          "parameters": []
+        },
+        {
+          "name": "verifyNoSearchResult",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

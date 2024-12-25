@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fc93c2e-dc2c-44cf-800f-3b2f75306348</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>59a54c32-0b7e-4914-a45e-19bad9cd83d9</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>4</value>
+      </iterationEntity>
+      <testDataId>Data Files/DataFile/SearchFunctionData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>59a54c32-0b7e-4914-a45e-19bad9cd83d9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>searchValue</value>
+      <variableId>443d4a0c-181d-4986-8880-5f3160d587f7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'    Bảo hiểm     '</defaultValue>
+      <description></description>
+      <id>443d4a0c-181d-4986-8880-5f3160d587f7</id>
+      <masked>false</masked>
+      <name>searchValue</name>
+   </variable>
+</TestCaseEntity>
